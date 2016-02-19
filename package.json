@@ -1,0 +1,19 @@
+{
+  "name": "martin-dequatremare.fr",
+  "version": "1.0.0",
+  "description": "My landing page !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-serve": "^1.2.0",
+    "gulp-vulcanize": "^6.1.0"
+  }
+}

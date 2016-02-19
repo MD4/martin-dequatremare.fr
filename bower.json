@@ -1,0 +1,28 @@
+{
+  "name": "martin-dequatremare.fr",
+  "authors": [
+    "md4 <m.dequa@gmail.com>"
+  ],
+  "description": "My landing page !",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "MD4",
+    "martin",
+    "dequatremare"
+  ],
+  "license": "MIT",
+  "homepage": "http://martin-dequtremare.fr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Class": "MD4/Class",
+    "bulma": "^0.0.12",
+    "WC": "MD4/WC"
+  }
+}

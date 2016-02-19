@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg5898"
+   height="5.5122mm"
+   viewBox="0 0 17.219356 19.531474"
+   width="4.8597mm"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="loader.svg">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="12.083097"
+     inkscape:cx="-6.2457582"
+     inkscape:cy="9.7657084"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5898" />
+  <path
+     id="path5257-4-4-9-30-2-2"
+     fill="none"
+     transform="matrix(1.1364 .65610 -.65610 1.1364 -314.46 -296.73)"
+     stroke="#fff"
+     stroke-width=".95302"
+     d="m336.97 79.18c0 0.13932-3.3622 5.9628-3.4829 6.0325-0.12065 0.06966-6.8451 0.06966-6.9657 0-0.12065-0.06966-3.4829-5.8932-3.4829-6.0325 0-0.13932 3.3622-5.9628 3.4829-6.0325 0.12065-0.06966 6.8451-0.06966 6.9657 0 0.12065 0.06966 3.4829 5.8932 3.4829 6.0325z"
+     style="stroke:#353b3b;stroke-opacity:1" />
+  <path
+     id="path5257-4-4-9-30-2-2-8"
+     transform="matrix(.80594 .46531 -.46531 .80594 -220.51 -207.6)"
+     fill="#fff"
+     d="m336.97 79.18c0 0.13932-3.3622 5.9628-3.4829 6.0325-0.12065 0.06966-6.8451 0.06966-6.9657 0-0.12065-0.06966-3.4829-5.8932-3.4829-6.0325 0-0.13932 3.3622-5.9628 3.4829-6.0325 0.12065-0.06966 6.8451-0.06966 6.9657 0 0.12065 0.06966 3.4829 5.8932 3.4829 6.0325z"
+     style="fill:#353b3b;fill-opacity:1" />
+</svg>

@@ -1,0 +1,106 @@
+.avatar {
+    animation: pop;
+    animation-duration: 500ms;
+}
+
+.avatar-title {
+    animation: pop;
+    animation-duration: 500ms;
+    animation-fill-mode: backwards;
+    animation-delay: 100ms;
+
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 50px;
+
+    margin-bottom: 5px;
+}
+
+.avatar-subtitle {
+    animation: pop;
+    animation-duration: 500ms;
+    animation-fill-mode: backwards;
+    animation-delay: 150ms;
+
+    color: white;
+    font-size: 20px;
+
+    margin-bottom: 30px;
+}
+
+.avatar-link {
+    display: inline-block;
+    animation: pop;
+    animation-duration: 500ms;
+    animation-fill-mode: backwards;
+    animation-delay: 200ms;
+    margin: 35px 0;
+
+    transition: transform 200ms;
+}
+
+.avatar-link:after {
+    font-size: 12px;
+    opacity: 0;
+    display: block;
+    content: " ";
+    color: white;
+    transition: opacity 100ms;
+    width: 70px;
+}
+
+.avatar-link:hover:after {
+    opacity: 1;
+}
+
+.avatar-link.l1 {
+    animation-delay: 200ms;
+}
+
+.avatar-link.l1:after {
+    content: "github";
+}
+
+.avatar-link.l2 {
+    animation-delay: 250ms;
+}
+
+.avatar-link.l2:after {
+    content: "linked in";
+}
+
+.avatar-link.l3 {
+    animation-delay: 300ms;
+}
+
+.avatar-link.l3:after {
+    content: "twitter";
+}
+
+.avatar-link.l4 {
+    animation-delay: 350ms;
+}
+
+.avatar-link.l4:after {
+    content: "e-mail";
+}
+
+.avatar-link:hover {
+    transform: scale(1.15);
+    transition: transform 75ms;
+}
+
+@keyframes pop {
+    0% {
+        transform: scale(0);
+    }
+    30% {
+        transform: scale(1.1);
+    }
+    60% {
+        transform: scale(0.95);
+    }
+    100% {
+        transform: scale(1);
+    }
+}

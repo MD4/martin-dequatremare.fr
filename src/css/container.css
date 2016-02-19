@@ -1,0 +1,7 @@
+#container {
+    background-color: #353b3b;
+}
+
+#container.hidden {
+    display: none;
+}

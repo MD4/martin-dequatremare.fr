@@ -1,0 +1,19 @@
+* {
+    font-family: 'Droid Sans Mono';
+}
+
+img,
+img:active,
+img,
+a,
+a:active {
+    outline: none;
+}
+
+html {
+    background-color: #353b3b;
+}
+
+html, body {
+    overflow: hidden;
+}
