@@ -6,7 +6,7 @@ Landing page !
 Just run:
 
 ```
-gulp
+npm install && bower install && gulp
 ```
 
 Then go to:
