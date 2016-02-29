@@ -1,6 +1,7 @@
 .avatar {
     animation: popRotate;
     animation-duration: 500ms;
+    margin-bottom: 35px;
 }
 
 .avatar-title {
@@ -30,7 +31,7 @@
 
 .avatar-link {
     display: inline-block;
-    margin: 35px 0;
+    margin: 0;
 
     transition: transform 200ms;
 }
